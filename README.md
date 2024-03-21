@@ -182,6 +182,7 @@ ORDER BY Total_OrdersASC
 ![image](https://github.com/Adesugba1/Pizza-Sales-Analysis/assets/143879001/5831d799-be17-46d5-a3c9-5bb116d09df5)
 
 ## Dashboard
+Clink the [Link](https://app.powerbi.com/view?r=eyJrIjoiMTllZTU2MDAtODYxNC00YWQxLWI0MDEtODA5NTBlMjkwODg3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) for Interactive Dashboard
 ![Screenshot_20240119-203155_1](https://github.com/Adesugba1/Pizza-Sales-Analysis/assets/143879001/d0955569-450b-41d2-9fc0-9eecf7652dc0)
 ![Screenshot_20240305-130747](https://github.com/Adesugba1/Pizza-Sales-Analysis/assets/143879001/47d8b8c9-52e1-4b38-832d-599487b5a5b9)
 
